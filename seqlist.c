@@ -8,4 +8,9 @@ int length;
 viod initlist(seqlist* L)｛
 L-›length = 0;
 ｝;
+viod int main ｛
+
 printf('%d', L-›length)
+
+return 0;  
+｝
